@@ -98,12 +98,12 @@ Server runs on the port set in `.env` (default: 3002). Access API at `http://loc
 * `mongod` — Start local MongoDB server
 
 ---
-![Screenshot of File structure]
+## Screenshot of File structure
 
 ![Screenshot 2025-05-17 170511](https://github.com/user-attachments/assets/db41f965-37e9-4cf8-a400-3af1cdee04ac)
 
 
-![Screenshots of the project working fine]
+## Screenshots of the project working fine
 ![Screenshot 2025-05-17 232802](https://github.com/user-attachments/assets/b2ff6d16-c07f-44c2-a85e-b7091c42526d)
 ![Screenshot 2025-05-17 232832](https://github.com/user-attachments/assets/b7de96c3-31e8-4e1f-be7d-a5a20ed3f3ad)
 ![Screenshot 2025-05-17 233131](https://github.com/user-attachments/assets/2f92053a-df24-4a7e-9bac-61c48cb36704)
