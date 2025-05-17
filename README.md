@@ -37,8 +37,8 @@ Make sure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone (https://github.com/isha54ry/Notification-Service)
+cd Notification-Service
 ````
 
 ### Install dependencies
@@ -54,7 +54,7 @@ npm install
 Create a `.env` file in the root directory and add the following variables:
 
 ```env
-PORT=3000
+PORT=3002
 MONGO_URI=mongodb://localhost:27017/notifications_db
 
 ## Running the Application
