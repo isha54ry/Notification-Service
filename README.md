@@ -99,6 +99,7 @@ Server runs on the port set in `.env` (default: 3002). Access API at `http://loc
 
 ---
 ![Screenshot of File structure]
+
 ![Screenshot 2025-05-17 170511](https://github.com/user-attachments/assets/db41f965-37e9-4cf8-a400-3af1cdee04ac)
 
 
