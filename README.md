@@ -61,7 +61,6 @@ MONGO_URI=mongodb://localhost:27017/notifications_db
 
 ### Start MongoDB server (if running locally)
 
-```bash
 mongod
 ```
 
