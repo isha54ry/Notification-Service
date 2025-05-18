@@ -106,7 +106,6 @@ Server runs on the port set in `.env` (default: 3002). Access API at `http://loc
 ## Screenshots of the project working fine
 ![Screenshot 2025-05-17 232802](https://github.com/user-attachments/assets/b2ff6d16-c07f-44c2-a85e-b7091c42526d)
 ![Screenshot 2025-05-17 232832](https://github.com/user-attachments/assets/b7de96c3-31e8-4e1f-be7d-a5a20ed3f3ad)
-![Screenshot 2025-05-17 233131](https://github.com/user-attachments/assets/2f92053a-df24-4a7e-9bac-61c48cb36704)
 ![Screenshot 2025-05-17 233150](https://github.com/user-attachments/assets/cebbae99-2925-4b07-9c43-c9d66a858de0)
 
 
